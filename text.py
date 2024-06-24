@@ -2,6 +2,6 @@ import pyautogui     # pip install pyautogui (py=python auto = auto gui = graphi
 import time
 while True:
     time.sleep(0.0001)
-    pyautogui.typewrite("Babu rudro Ghum theke utho na...... Babu..")
+    pyautogui.typewrite("Babu Ghum theke utho na......  O Babu..")
     time.sleep(0.0001)
     pyautogui.press('enter')
